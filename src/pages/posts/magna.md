@@ -21,7 +21,6 @@ Elasticsearch as I explained in details in this article is a highly scalable ope
 
 A search over Shodan for Elasticsearch clusters will tell you that there are thousands of Elasticsearch instances running and available with their remote APIs publicly exposed a along with other information such as the indices and all the meta data Elasticsearch endpoints provides (number of nodes, shards, plugins,etc).
 
-![Block Image](/images/art.svg)
 
 And as you can see Shodan can help you filter the results based on country, organization or even keywords such as indices names or fields. But checking all the 34k results manually can be very time consuming and boring, and thanks to Shodan’s API this can be automated with a script to check all these IPs one by one, ping them and search their content for the specific thing you need for purposes of bug bounty for example. The script named ES-finder (Elasticsearch finder) created by our Cybersecurity Lab (Excelerate Systems France) is able to look for open instances of Elasticsearch obviously (But not only on port 9200 as the default), check their sizes, indices and see if Kibana is installed as well or not (it’s very helpful to explore the data in the cluster and it can also be linked to a front-end).
 
