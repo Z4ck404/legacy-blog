@@ -1,5 +1,5 @@
 ---
-title: Magna etiam sed lorem ipsum dolor amet
+title: How hackers can find your exposed Elasticsearch clusters using Shodan !
 subtitle: A cautionary tale about Magna etiam
 excerpt: >-
   Phasellus in ante vitae nibh porttitor tempus vitae ut ante. Vestibulum
