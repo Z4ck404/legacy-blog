@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Talking tech
+    title: 'Talking '
     subtitle: '### This is a super-cool hero subhead.'
     image: images/35115877.png
   - title: Text
