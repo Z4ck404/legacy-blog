@@ -2,9 +2,11 @@
 title: How hackers can find your exposed Elasticsearch clusters using Shodan !
 subtitle: Your guide to ELK attacks and security
 excerpt: >-
-  Phasellus in ante vitae nibh porttitor tempus vitae ut ante. Vestibulum
-  blandit dolor elementum viverra. Sed quat a diam, aliquet tempus felis.
-  Phasellus et magna vitae nibh porttitor tempus vitae.
+  For the last couple of months, I have been exploring Elasticsearch and I even
+  shared some articles about it talking about how impressive the technology
+  behind it is and how it can be used with other projects such as Spark to
+  expand the search capabilities Elasticsearch offers with the real-time
+  distributed analytics and machine learning Spark offers. 
 date: '2020-06-25'
 thumb_img_path: images/06-elasticsearch.png
 template: post
