@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: ''
+    title: '#Z4ck404 | Cybersecurity and data science engineer'
     subtitle: '### This is a super-cool hero subhead.'
     image: images/35115877.png
   - title: Text
