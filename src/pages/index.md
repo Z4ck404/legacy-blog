@@ -5,7 +5,7 @@ sections:
     type: section_hero
     title: This is a hero headline.
     subtitle: '### This is a super-cool hero subhead.'
-    image: images/avatar.png
+    image: images/35115877.png
   - title: Text
     section_id: intro
     type: section_content
