@@ -10,7 +10,7 @@ excerpt: >-
 date: '2020-06-25'
 thumb_img_path: images/06-elasticsearch.png
 template: post
-content_img_path: images/es finder.png
+content_img_path: images/es finder results.png
 ---
 ### Exposed Elasticsearch cluster !
 
