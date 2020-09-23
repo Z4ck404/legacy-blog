@@ -6,7 +6,7 @@ excerpt: >-
   blandit dolor elementum viverra. Sed quat a diam, aliquet tempus felis.
   Phasellus et magna vitae nibh porttitor tempus vitae.
 date: '2016-09-04'
-thumb_img_path: images/art.svg
+thumb_img_path: images/06-elasticsearch.png
 template: post
 ---
 
