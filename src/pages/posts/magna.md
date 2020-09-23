@@ -72,9 +72,9 @@ Lately, Elastic B.V, the company that sprung from the Open Source Elasticsearch 
 <img src="/images/xpack.png">
 
 
-**SearchGuard**,by Floragunn GmbH, is the first security solution that exists originally for Elasticsearch. A great advantage is that, since the first version, the whole offer is under the Apache license, so the free Community features aswell as Enterprise / Compliance features are entirely open source and open code. It also provides alerting features along with security in the free edition.
+**[SearchGuard](https://search-guard.com/)**,by Floragunn GmbH, is the first security solution that exists originally for Elasticsearch. A great advantage is that, since the first version, the whole offer is under the Apache license, so the free Community features aswell as Enterprise / Compliance features are entirely open source and open code. It also provides alerting features along with security in the free edition.
 
-The fact that the code of a software is opened since the very first version is important when it comes to security. So we note that each version of Search Guard is scanned and audited by Veracode for vulnerabilities and issues. Also, SearchGuard can be installed as an additional plugin on Elasticsearch and Kibana for all the versions V5.x.x, V6.x.x and V7.x.x. (Previous version are available as well but may not be supported any more as explained by Search Guard team here).
+The fact that the code of a software is opened since the very first version is important when it comes to security. So we note that [each version of Search Guard is scanned and audited by Veracode for vulnerabilities and issues](https://search-guard.com/search-guard-ca-veracode-verified/). Also, SearchGuard can be installed as an additional plugin on Elasticsearch and Kibana for all the versions V5.x.x, V6.x.x and V7.x.x. (Previous version are available as well but may not be supported any more as explained by Search Guard team [here](https://docs.search-guard.com/latest/eol-policy)).
 
 Now that I’ve presented different solutions and options to ensure encryption and manage credentials. Just make sure you don’t leave your cluster exposed no matter what tool you use.
 
