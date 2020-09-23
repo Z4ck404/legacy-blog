@@ -5,7 +5,7 @@ excerpt: >-
   Phasellus in ante vitae nibh porttitor tempus vitae ut ante. Vestibulum
   blandit dolor elementum viverra. Sed quat a diam, aliquet tempus felis.
   Phasellus et magna vitae nibh porttitor tempus vitae.
-date: ''
+date: '2020-06-25'
 thumb_img_path: images/06-elasticsearch.png
 template: post
 content_img_path: images/marvelous-rosemary.png
