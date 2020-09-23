@@ -8,7 +8,7 @@ excerpt: >-
   expand the search capabilities Elasticsearch offers with the real-time
   distributed analytics and machine learning Spark offers. 
 date: '2020-06-25'
-thumb_img_path: images/06-elasticsearch.png
+thumb_img_path: images/es finder.png
 template: post
 content_img_path: images/06-elasticsearch.png
 ---
