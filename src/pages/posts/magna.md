@@ -1,5 +1,5 @@
 ---
-title: How hackers can find your exposed Elasticsearch clusters using Shodan !
+title: How hackers can find your exposed Elasticsearch clusters using Shodan!
 subtitle: Your guide to ELK attacks and security
 excerpt: >-
   For the last couple of months, I have been exploring Elasticsearch and I even
