@@ -4,7 +4,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: '#Z4ck404 | Cybersecurity and data science engineer'
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: >-
+      ### I share about data engineering, cyber security, artificial
+      intelligence and machine learning.
     image: images/35115877.png
   - title: Text
     section_id: intro
