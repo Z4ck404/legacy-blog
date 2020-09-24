@@ -9,7 +9,9 @@ sections:
       intelligence and machine learning.
     image: images/35115877.png
   - title: Zakaria EL BAZI BLOGS
-    section_id: intro
+    section_id: >-
+      I share about data engineering, cyber security, artificial intelligence
+      and machine learning.
     type: section_content
     content: ' '
   - title: Recent Posts
