@@ -1,9 +1,6 @@
 ---
 title: ''
-excerpt: >-
-  Phasellus in ante vitae nibh porttitor tempus vitae ut ante. Vestibulum
-  blandit dolor elementum viverra. Sed quat a diam, aliquet tempus felis.
-  Phasellus et magna vitae nibh porttitor tempus vitae.
+excerpt: ''
 date: '2016-08-22'
 template: post
 ---
