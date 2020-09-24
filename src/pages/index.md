@@ -15,9 +15,5 @@ sections:
   - title: Recent Posts
     section_id: posts
     type: section_posts
-  - title: A Cat
-    section_id: cat
-    type: section_content
-    content: ''
 template: advanced
 ---
