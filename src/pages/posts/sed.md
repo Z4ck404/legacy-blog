@@ -1,5 +1,5 @@
 ---
-title: Sed feugiat et mauris adipiscing dolor
+title: 'How order can emerge from chaos : from a machine learning engineer perspective'
 excerpt: >-
   Phasellus in ante vitae nibh porttitor tempus vitae ut ante. Vestibulum
   blandit dolor elementum viverra.
