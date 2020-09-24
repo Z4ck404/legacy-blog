@@ -3,7 +3,7 @@ title: 'How order can emerge from chaos : from a machine learning engineer persp
 excerpt: >-
   Phasellus in ante vitae nibh porttitor tempus vitae ut ante. Vestibulum
   blandit dolor elementum viverra.
-date: ''
+date: '2020-01-21'
 thumb_img_path: images/0 viiZUvMK_UEPc2n7.jpg
 template: post
 subtitle: Machine learning and chaos theory
