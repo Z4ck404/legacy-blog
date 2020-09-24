@@ -14,6 +14,7 @@ sections:
       and machine learning.
     type: section_content
     content: ' '
+    image: images/background-photo-1.jpg
   - title: Recent Posts
     section_id: posts
     type: section_posts
