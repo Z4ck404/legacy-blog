@@ -8,7 +8,7 @@ sections:
       ### I share about data engineering, cyber security, artificial
       intelligence and machine learning.
     image: images/35115877.png
-  - title: Text
+  - title: Zakaria EL BAZI BLOGS
     section_id: intro
     type: section_content
     content: ' '
