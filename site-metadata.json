@@ -11,12 +11,6 @@
             {
                 "label": "me",
                 "url": "/generic/"
-            },
-            {
-                "label": "lorem-ipsum",
-                "url": "lorem-ipsum",
-                "new_window": false,
-                "type": "action"
             }
         ]
     },
