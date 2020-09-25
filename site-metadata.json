@@ -13,10 +13,6 @@
                 "url": "/generic/"
             },
             {
-                "label": "Ipsum",
-                "url": "/ipsum/"
-            },
-            {
                 "label": "lorem-ipsum",
                 "url": "lorem-ipsum",
                 "new_window": false,
