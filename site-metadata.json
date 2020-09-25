@@ -10,7 +10,8 @@
             },
             {
                 "label": "me",
-                "url": "https://elbazi.co"
+                "url": "https://elbazi.co",
+                "new_window": true
             }
         ]
     },
