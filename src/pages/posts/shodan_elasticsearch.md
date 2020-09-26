@@ -79,3 +79,6 @@ The fact that the code of a software is opened since the very first version is i
 Now that I’ve presented different solutions and options to ensure encryption and manage credentials. Just make sure you don’t leave your cluster exposed no matter what tool you use.
 
 > NEVER leave your cluster and data exposed !
+
+***
+> Search Guard is a trademark of floragunn GmbH, registered in the U.S. and in other countries. Elasticsearch, Kibana, Logstash, and Beats are trademarks of Elasticsearch BV, registered in the U.S. and in other countries. Apache, Apache Lucene, Apache Hadoop, Hadoop, Spark, Kafka, HDFS and the yellow elephant logo are trademarks of the Apache Software Foundation in the United States and/or other countries. Open Distro for Elasticsearch is licensed under Apache 2.0. All other trademark holders rights are reserved
