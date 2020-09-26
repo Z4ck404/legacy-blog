@@ -18,13 +18,13 @@ I will not go deep into the technical details of machine learning techniques or 
 > “In my youth, I would have argued that life is just a series of random events devoid of any meaning. But as a data scientist, I have to recognize that sometimes patterns emerge. Undeniable patterns.” —
 **Bertram Guilfoyle from Silicon valley HBO Tv Series**
 
-###### **Machine learning**
+### **Machine learning**
 
 I did already define machine learning and explained its approaches in details in my article about artificial intelligence based approaches in malware detection . And the important thing to keep in mind is that machine learning is actually a set of algorithms that use statistical and mathematical methods in order to find patterns that underlie the numerical data it takes as input and formalize them in a set of mathematical equations called the model. The precision of these models and whether they explain well the data is related to a lot of factors and parameters like the quality of the data, the algorithms used, etc.
 
 This changed a lot in human life already, discovering that a lot of events in our daily lives are linked together and that there are models describing these relations with certain error rate. These links and relations between two different events (variables) are called among mathematicians and statisticians correlations, they don’t mean causation, even though sometimes they might but they give us at least an idea on the straight of the relations between different events, and how to control them in the future or change them.
 
-###### **correlations**
+### **correlations**
 
 There are a lot of useful correlations in our daily life, a simple example is the relation between hospital nurse performance and a lot of other variables related to work environment, workload and the number of patients in emergency room in addition to time spent with the patient, this can help to know how many nurses to hire for example or how to organize nurses work shifts, etc. A related study by Lake ET, Sanders J, Duan R, Riman KA, Schoenauer KM, Chen Y shows that the nurse work environment warrants attention to promote health care quality, safety, and patient and clinician well-being.
 
