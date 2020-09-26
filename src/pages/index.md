@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: '#Z4ck404 | Cybersecurity and data science engineer @ExcelerateSystems'
+    title: Cybersecurity and data science engineer @ExcelerateSystems
     subtitle: >-
       ### I share about data engineering, cyber security, artificial
       intelligence and machine learning.
