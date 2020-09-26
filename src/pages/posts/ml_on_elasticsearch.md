@@ -38,7 +38,7 @@ Elasticsearch for Apache Hadoop offers first-class support for vanilla Map/Reduc
 
 We always let the security til the end, which is not good since security is no longer an option, it should be considered from the whole beginning. Fortunately for us there is an option to secure our Elasticsearch Instance and plugins that interacts with it including ES-Hadoop.
 
-<img src="/images/searchguard.png">
+<img align="middle" src="/images/sg.png" alt="search-guard" />
 
 Search Guard that’s an open source plugin for alerting and security for the elastic stack that comes with advanced security options to allow better integration in the various infrastructures that can be used with Elasticsearch.
 
