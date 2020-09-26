@@ -8,6 +8,7 @@ thumb_img_path: images/es_diag.png
 template: post
 content_img_path: images/es_diag.png
 ---
+
 Before digging into any technical details, I will start with brief descriptions of the tools that I will be using for the tutorials (this part and the coming ones).
 
 ### 1 — E(Elasticsearch).L(Logstash).K(Kibana) Stack  !
