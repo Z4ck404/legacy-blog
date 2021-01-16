@@ -15,7 +15,7 @@ content_img_path: images/snowden.jpg
 
 Edward Snowden grew up in a family of US government officials, a mother who works for the CIA (not as a secret agent but as a simple office worker) and a father who was a telecom engineer in the military. Thanks to his father's work, Edward had access to a personal computer that later allowed him to access a global network of thousands of other computers and people, called the Internet. 
 
-He used to computer in the beginning just to play like any other kid would do, but his curiosity led him later to ask questions about how it works and how to fix it when it is damaged explore how it works and how it is able to connect with other machines and exchange information with them. 
+He used to computer in the beginning just to play like any other kid would do, but his curiosity led him later to ask questions about how it works and how it is able to connect with other machines and exchange information with them. 
 That curiosity let him as a teenager to visit the website of the Los Alamos nuclear research laboratory and see if he can find any errors and misconfiguration in it. He discovered that it had a critical security issue that lets anyone access and read all the documents in that server which contained sensitive nuclear research and classified files. One of the pdf documents shared in that website, exposed the whole directory tree structure that had no restrictions on permission (something like chmod -R 777 ./). He did what a good citizen would do in such case and he informed their IT team about that issue. 
 
 ### 9-11 and Agent Snowden: 
