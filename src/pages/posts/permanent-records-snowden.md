@@ -30,7 +30,8 @@ After Geneve, his joined an NSA office in Japan as an employee of DELL. While wo
 ### Mass surveillance:
 
 While working on **“EPICSHELTER”** in Tokyo and while preparing his slides for a security conference organized by the “Pacific Technical center” about the evolution in counterespionage thanks to modern cyber-intelligence, he came across some classified files in CIA archives talking about mass surveillance of Americans and the existence of a system capable of collecting every single piece of information in the united states, something similar or even worse that what the communist China has.
-That surveillance started officially after the attacks of 911 and launched with a presidential decree “PSP” by President Bush which allowed the NSA to intercept and store phone calls and emails exchanged between the US and a foreign country at the beginning and later all communications between Americans which was against the Protect American Act (2007) and the FISA Amendments Act (2008). The program was called **“STELLARWIND”**.
+
+He found that surveillance started officially after the attacks of 911 and launched with a presidential decree “PSP” by President Bush which allowed the NSA to intercept and store phone calls and emails exchanged between the US and a foreign country at the beginning and later all communications between Americans which was against the Protect American Act (2007) and the FISA Amendments Act (2008). The program was called **“STELLARWIND”**.
 
 As a result of this discovery, the government with STELLARWIND willingly hosts private photos and files on cloud computing services, cedes ownership of the data, and makes telecommunications companies and GAFAMs complicit in mass surveillance. This generated huge revenues for the companies, while the government was poaching data, either through secret warrants or by monitoring the companies themselves.
 
