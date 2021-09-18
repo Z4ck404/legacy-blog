@@ -1,17 +1,13 @@
 {
     "description": "I am from a small village called Aguerd N'ouzrou (67 Km from the Ouarzazate, Morocco). I am a Data Engineer and an AI enthusiast. I am interested in #algorithms, #data_structures, #computer_security, #new_technologies, and #artificial_intelligence. ",
     "header": {
-        "title": "404 Blogs",
-        "has_nav": true,
+        "title": "#Z4ck404 blog",
+        "has_nav": false,
         "nav_links": [
             {
-                "label": "Home",
-                "url": "/"
-            },
-            {
-                "label": "About",
-                "url": "https://elbazi.co",
-                "new_window": true
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "new_window": false
             }
         ]
     },
