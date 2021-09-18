@@ -1,5 +1,5 @@
 ---
-title: E
+title: El bazi
 sections:
   - section_id: hero
     type: section_hero
