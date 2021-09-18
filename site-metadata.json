@@ -7,11 +7,6 @@
             {
                 "label": "Home",
                 "url": "/"
-            },
-            {
-                "label": "About",
-                "url": "https://elbazi.co",
-                "new_window": true
             }
         ]
     },
