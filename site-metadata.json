@@ -3,7 +3,13 @@
     "header": {
         "title": "#Z4ck404 blog",
         "has_nav": false,
-        "nav_links": []
+        "nav_links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "new_window": false
+            }
+        ]
     },
     "footer": {
         "content": "Made with love using Stackbit",
