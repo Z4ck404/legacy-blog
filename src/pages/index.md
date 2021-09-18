@@ -1,5 +1,5 @@
 ---
-title: El bazi
+title: Zakaria EL BAZI
 sections:
   - section_id: hero
     type: section_hero
