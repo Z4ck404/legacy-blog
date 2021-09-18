@@ -3,12 +3,7 @@
     "header": {
         "title": "404 Blogs",
         "has_nav": true,
-        "nav_links": [
-            {
-                "label": "Home",
-                "url": "/"
-            }
-        ]
+        "nav_links": []
     },
     "footer": {
         "content": "Made with love using Stackbit",
