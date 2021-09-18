@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Cybersecurity and data science engineer
+    title: Data engineer
     subtitle: >-
       ### #Z4ck404 |  I share about data engineering, cyber security, artificial
       intelligence and machine learning.
